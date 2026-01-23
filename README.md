@@ -11,7 +11,11 @@ My focus is on bridging the gap between state-of-the-art AI research and product
 ### 🔭 Current Focus
 - **Architecting** high-concurrency FastAPI microservices for Large Language Models.
 - **Optimizing** inference pipelines for Audio-LLMs (Speech-to-Text & Audio Understanding).
-- **Designing** event-driven architectures using n8n and Docker.
+### 📄 Publications
+**Comprehensive Benchmarking and Analysis of Open Pretrained Thai Speech Recognition Models**
+*IEEE (2024)*
+
+---
 
 ### 🛠️ Technical Arsenal
 
