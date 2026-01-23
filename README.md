@@ -1,8 +1,8 @@
 # Hi there, I'm Oatsada 👋
 
-### Senior Software Engineer | AI Infrastructure & Backend Specialist
+### Software Engineer | AI Infrastructure & Backend Specialist
 
-I am a core engineer at **NECTEC (National Electronics and Computer Technology Center)**, building the serving infrastructure for **Pathumma LLM**, Thailand's first multimodal audio-language AI model.
+I am a engineer at **NECTEC (National Electronics and Computer Technology Center)**, building the serving infrastructure for **Pathumma LLM**, Thailand's first multimodal audio-language AI model.
 
 My focus is on bridging the gap between state-of-the-art AI research and production-grade scalable systems.
 
@@ -34,4 +34,4 @@ My focus is on bridging the gap between state-of-the-art AI research and product
 
 ### 🤝 Connect
 - 💼 [LinkedIn](https://linkedin.com/in/oatsada)
-- 📧 [Email](mailto:chatthong.o@gmail.com)
+- 📧 [Email](mailto:Oatsada.mon@gmail.com)
