@@ -30,8 +30,8 @@ My focus is on bridging the gap between state-of-the-art AI research and product
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=montg1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=montg1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=montg1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=montg1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages" />
 </div>
 
 ---
