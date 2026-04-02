@@ -37,5 +37,5 @@ My focus is on bridging the gap between state-of-the-art AI research and product
 ---
 
 ### 🤝 Connect
-- 💼 [LinkedIn](https://linkedin.com/in/oatsada)
+- 💼 [LinkedIn](https://www.linkedin.com/in/oatsada-chattong-019bb8176/)
 - 📧 [Email](mailto:Oatsada.mon@gmail.com)
